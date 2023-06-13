@@ -1,32 +1,41 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
+## Technical Skill
+
+- Programming
+- Data visualization
 - Web Development (Frontend & Backend)
 
+## Soft Skill
+
+- Communication skill
+- Problem Solving
+- Public Speaking
+- Teamwork
+- Time management
+
 ## Programming languages
-- C# .NET
+
 - Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+  - Node.js
+- SQL
+- C, C++
+
+## Python Libraries
+
+- numpy
+- matplotlib
+- scipy, math
+- seaborn
+- requests/beautifulsoup
 
 ## Databases
-- MSSQL
-- PostgreSQL
+
 - MySQL
-- SQLite
+- PostgreSQL
 
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+## Version controlling
 
-## Vcs
 - Git

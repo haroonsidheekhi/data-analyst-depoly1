@@ -2,10 +2,26 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+I am a fresher in the field of Data Analysis, But in to the world of computer science iam not a newbie. My higher secondary, under graduation was specified in computer science. And the post graduation is in MCA (master of computer application) under pondicherry university with an excellent CGPA.
 
+My professional interests include: Python, R, and Football Data Analytics. And in future i would like to extend it into Tableau and Power BI .
 
-## Experience
+If you would like to find out more, please visit:
+• GitHub: github.com/haroonsidheekhi-vst-au4
+
+Technical Skills:
+• Programming – Python (and key libraries: pandas, NumPy, matplotlib), SQL, Git
+• Web Development – MERN, ReactJS, NodeJS, HTML+CSS+JS
+• Data visualisation and spreadsheets – Microsoft Excel and PowerPoint.
+• Data collection, analysing and modelling
+• Database handle – MySQL, SQL Server, MongoDB
+• Other Programming language experience – C , C++,
+
+Theoretical Background:
+• Mathematics
+• Statistics
+
+<!-- ## Experience
 
 **Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
 
@@ -29,60 +45,63 @@ Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial s
 
 **Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+Performed analytical procedures and analyses to detect unusual ﬁnancial relationships. -->
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2020-2022` [Pondicherry Central University](https://www.pondiuni.edu.in//)
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
+- **Master of Computer Application**
+- GPA: 8.34/10.0
+
+`2016-2019` [Sullamussalam Science College](https://sscollege.ac.in/)
+
+- **Bsc Computer Science**
 - Courses: Operating Systems
-- GPA: 4.3/4.3
+- GPA: 2.6/6
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+`2014–2016` [PPMHSS Kottukara](https://ppmhsskottukkara.com/)
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+- **Higher Secondary Studies**
+- GPA: 79.9%
 
 ## Skills
 
 ### General Tech Stacks
+
 - Architecture Design
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
-### Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+### Technical Skills
 
-## Certificates
-- Certified Public Accountant (Taiwan)
+- Programming – Python (and key libraries: pandas, NumPy, matplotlib), SQL, Git
+- Web Development – MERN, ReactJS, NodeJS, HTML+CSS+JS
+- Data visualisation and spreadsheets – Microsoft Excel and PowerPoint.
+- Database handle – MySQL, SQL Server, MongoDB
+- Other Programming language experience – C , C++,
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+### Additional Skills:
+
+- Critical thinking
+- Emotional intelligence
+- Teamwork
+- Communication
+- Public speaking
+- Flexibility
+
+<!-- ## Certificates
+
+- Certified Public Accountant (Taiwan) -->
+
+<!-- ## Accomplishments -->
+
+<!-- **Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
+Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. -->
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+
+**Malayalam**: Native
+**English**: Expert
+**Tamil**: intermediate
+**Hindi**: Basic
